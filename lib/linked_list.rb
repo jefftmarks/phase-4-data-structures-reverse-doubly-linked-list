@@ -27,6 +27,8 @@ class LinkedList
 		node.next_node = node.prev_node
 		node.prev_node = bookmark
   end
+
+	
 end
 
 node_1 = Node.new(1)
